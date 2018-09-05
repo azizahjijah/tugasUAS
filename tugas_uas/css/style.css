@@ -1,0 +1,20 @@
+body {
+	font-family: algerian;
+	color: #000000;
+	background: url(../img/bck.jpg); 
+}
+
+nav {
+	background: #19468e;
+}
+
+nav a {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+nav a:hover {
+	color: #e08d08;
+}
